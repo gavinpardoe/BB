@@ -1,5 +1,3 @@
-require_once 'protect.php';
-Protect\with('form.php', 'password');
 
 
 ## Welcome to GitHub Pages
